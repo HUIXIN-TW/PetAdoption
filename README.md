@@ -1,5 +1,5 @@
 # PetAdoption
-Website with API
+Website with [Dog API](https://dog.ceo/dog-api/documentation/), visit [my work](https://huixin-tw.github.io/PetAdoption/)
 
 # Tech
 - HTML
@@ -9,7 +9,4 @@ Website with API
     - fetch
     - Element.innerHTML
     - HTMLImageElement.src
-    - EventTarget.addEventListener()
-
-# Resources
-[Dog API](https://dog.ceo/dog-api/documentation/)
+    - EventTarget.addEventListener() 
